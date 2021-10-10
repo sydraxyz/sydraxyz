@@ -3,10 +3,10 @@
 class Sydraxyz {
     constructor(options) {
         this.name = "Arda Berk",
-        this.sex = "man",
+        this.job = "developer",
         this.length = "188",
         this.type = "human",
-        this.job = "developer",
+        this.sex = "man",
         this.weight = "83",
         this.age = "19"
     };
