@@ -4,9 +4,9 @@
 class Sydraxyz {
     constructor(options) {
         this.name = "Arda Berk",
-        this.discord.tag = "Sydra.#0001",
+        this.discord.tag = "Sydra#0001",
         this.job = "developer",
-        this.length = "188",
+        this.length = "186",
         this.type = "human",
         this.sex = "man",
         this.weight = "83",
