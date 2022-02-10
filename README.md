@@ -4,13 +4,12 @@
 class Sydraxyz {
     constructor(options) {
         this.name = "Arda Berk",
-        this.discord.tag = "Sydra#0001",
         this.job = "developer",
         this.length = "186",
         this.type = "human",
         this.sex = "man",
-        this.weight = "83",
-        this.age = "17"
+        this.weight = "185",
+        this.age = "16"
     };
 }
 
