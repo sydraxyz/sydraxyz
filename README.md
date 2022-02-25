@@ -6,7 +6,6 @@ class Sydraxyz {
         this.name = "Arda Berk",
         this.job = "developer",
         this.length = "186",
-        this.type = "human",
         this.weight = "69",
         this.sex = "man",
         this.age = "16"
