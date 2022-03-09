@@ -23,6 +23,3 @@ module.exports = Sydraxyz
 - Hoşçakalın, aşkla yaşayın.
 
 #
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/823258581990244373?hideDiscrim=true&hideBadges=true&hideTimestamp=true)](https://discord.com/users/823258581990244373)
-#
