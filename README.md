@@ -28,3 +28,5 @@ module.exports = Sydraxyz
 - Hoşçakalın, aşkla yaşayın.
 
 #
+
+- Artık discord dan uzaklaşmaya karar verdim. Ulaşmak isteyen Serendia Squad üzerinden ulaşabilir.
