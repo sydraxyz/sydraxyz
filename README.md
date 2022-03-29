@@ -29,4 +29,4 @@ module.exports = Sydraxyz
 
 #
 
-- Artık discord dan uzaklaşmaya karar verdim. Ulaşmak isteyen Serendia Squad üzerinden ulaşabilir.
+- Artık discorddan uzaklaşmaya karar verdim. Ulaşmak isteyen Serendia Squad üzerinden ulaşabilir.
