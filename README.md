@@ -13,7 +13,7 @@ class Sydraxyz {
         this.length = "187",
         this.weight = "67",
         this.sex = "man",
-        this.age = "15"
+        this.age = "16"
     };
 }
 
