@@ -22,7 +22,7 @@ module.exports = Sydraxyz
 ![](https://komarev.com/ghpvc/?username=sydraxyz&label=PROFILE+VIEWS)
 
 - Selam dostlar ben Arda Berk Nam-ı diğer Sydra.
-- Discord üzerinde bot yapmaya başlayalı 10.10.2021 tarihi ile 1. yılımı doldurdum ve devam ediyorum.
+- Discord üzerinde bot yapmaya başlayalı 10.10.2021 tarihi ile 1. yılımı doldurdum.
 - Yakında bir çok proje ile karşınızda olacağım.
 - Projelerimi incelemeyi star ve fork atmayı unutmayın.
 - Hoşçakalın, aşkla yaşayın.
