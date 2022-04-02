@@ -30,4 +30,4 @@ module.exports = Sydraxyz
 #
 
 - Artık discorddan uzaklaşmaya karar verdim.
-- Kimseye güvenilmeyeceğini bir kere daha öğrenmiş oldum.
+- Projelere uzun süre ara verdim, artık eskisi gibi hevesim yok.
