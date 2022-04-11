@@ -1,5 +1,3 @@
-#
-
 ```js
 class Sydraxyz {
     constructor(options) {
@@ -26,8 +24,3 @@ module.exports = Sydraxyz
 - Yakında bir çok proje ile karşınızda olacağım.
 - Projelerimi incelemeyi star ve fork atmayı unutmayın.
 - Hoşçakalın, aşkla yaşayın.
-
-#
-
-- Artık discorddan uzaklaşmaya karar verdim.
-- Projelere uzun süre ara verdim, artık eskisi gibi hevesim yok.
