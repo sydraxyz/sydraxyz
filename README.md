@@ -11,7 +11,7 @@ class Sydraxyz {
         this.job = "developer",
         this.type = "human",
         this.length = "187",
-        this.weight = "67",
+        this.weight = "72",
         this.sex = "man",
         this.age = "16"
     };
