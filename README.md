@@ -13,7 +13,7 @@ class Sydraxyz {
         this.sex = "man",
         this.age = "16"
     };
-}
+};
 
 module.exports = Sydraxyz
 ```
