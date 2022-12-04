@@ -3,15 +3,11 @@ class Sydraxyz {
     constructor(options) {
         this.name = "Arda Berk",
         this.hometown = "Greece",
-        this.birthday = "15",
-        this.birthmonth = "July",
-        this.birthyear = "2006",
         this.job = "developer",
         this.type = "human",
         this.length = "184",
         this.weight = "69",
         this.sex = "man",
-        this.age = "16"
     };
 };
 
