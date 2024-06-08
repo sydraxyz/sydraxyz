@@ -14,5 +14,3 @@ class Sydraxyz {
 module.exports = Sydraxyz
 ```
 ![](https://komarev.com/ghpvc/?username=sydraxyz&label=PROFILE+VIEWS)
-
-- Selam dostlar ben Arda Berk Nam-ı diğer Sydra.
