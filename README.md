@@ -10,7 +10,6 @@ class Sydraxyz {
         this.sex = "man",
     };
 };
-
 module.exports = Sydraxyz
 ```
 ![](https://komarev.com/ghpvc/?username=sydraxyz&label=PROFILE+VIEWS)
